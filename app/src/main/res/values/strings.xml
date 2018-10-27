@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Temperature</string>
+    <string name="input_edit_text">Input number</string>
+    <string name="c_to_f">C TO F</string>
+    <string name="f_to_c">F TO C</string>
+    <string name="input_some">Please input something</string>
+</resources>

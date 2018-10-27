@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temperature</string>
+    <string name="input_edit_text">ใส่ตัวเลข</string>
+    <string name="c_to_f">แปลง C เป็น F</string>
+    <string name="f_to_c">แปลง F เป็น C</string>
+    <string name="input_some">กรุณากรอกตัวเลข</string>
+</resources>
